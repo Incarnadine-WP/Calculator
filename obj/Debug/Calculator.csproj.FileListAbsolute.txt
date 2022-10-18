@@ -1,0 +1,14 @@
+D:\Games\important\GameDevelop\VS_Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Games\important\GameDevelop\VS_Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Games\important\GameDevelop\VS_Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Games\important\GameDevelop\VS_Projects\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Games\important\GameDevelop\VS_Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Games\important\GameDevelop\VS_Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Games\important\GameDevelop\VS_Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Programs\unity all\VS_Projects\Calculator\bin\Debug\Calculator.exe.config
+D:\Programs\unity all\VS_Projects\Calculator\bin\Debug\Calculator.exe
+D:\Programs\unity all\VS_Projects\Calculator\bin\Debug\Calculator.pdb
+D:\Programs\unity all\VS_Projects\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Programs\unity all\VS_Projects\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Programs\unity all\VS_Projects\Calculator\obj\Debug\Calculator.exe
+D:\Programs\unity all\VS_Projects\Calculator\obj\Debug\Calculator.pdb
